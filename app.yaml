@@ -7,5 +7,5 @@ handlers:
   secure: always
 
 env_variables:
- PROXY_PASS_HOST_PORT: 'your_ddns_domain_name:port'
+ PROXY_PASS_HOST_PORT: '2269gs0695.iok.la:88'
  PROXY_PASS_SCHEME: 'http'
